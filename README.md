@@ -21,7 +21,7 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 
 ## Usage
 1. Clone the repository:
-git clone https://github.com/Yisakwondwosen/Fake-News-Detection-git
+git clone https://github.com/Yisakwondwosen/Fake-News-Detection-
 
 
 2. Navigate to the project directory:
