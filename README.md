@@ -5,7 +5,7 @@
 This repository contains a Jupyter Notebook that demonstrates the process of detecting fake news using machine learning algorithms.
 
 ## Dataset
-The dataset used in this project is the [Fake News Dataset](https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset) from Kaggle. It consists of two CSV files: one containing real news articles and another containing fake news articles.
+The dataset used in this project is the [Fake News Dataset](https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset) from Kaggle. It consists of one CSV files: one containing real news articles and another containing fake news articles.
 
 ## Dependencies
 To run the notebook, you will need the following Python libraries:
